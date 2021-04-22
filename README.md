@@ -1,2 +1,7 @@
 # Oufioo
-Jeux de plateforme style mario en ajoutant le thème ooofffff
+Jeux de plateforme style mario luigi en ajoutant un style .... OOOOFFFFFFFFFF
+
+- Pour se déplacer :
+
+  ZQSD --> Mario
+  OKLM --> Luigi
